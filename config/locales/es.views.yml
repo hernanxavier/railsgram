@@ -1,0 +1,8 @@
+es:
+  images:
+    new:
+      form:
+        error: 'Ha ocurrido un error al intentar crear el nuevo registro en %{model}'
+    image:
+      edit_link: 'Editar'
+      remove_link: 'Eliminar'
